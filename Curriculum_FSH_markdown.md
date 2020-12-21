@@ -5,7 +5,7 @@
 * 670 45 27 94
 * 27/05/1993
 
-<img src="C:\Users\sanch\Documents\fotoCurriculum.jpg" width="300px" heigt="500px" style="float: left" />
+<img src="https://drive.google.com/uc?id=1MuwakQH5qpibiaavFP-tsvDeNVDWWsH9" width="300px" heigt="500px" style="float: left" />
 
 ### Perfil profesional
 Mi nombre es Francisco Javier, técnico superior en desarrollo de aplicaciones web y programación de páginas webs. Finalicé mis estudios especializados, con el curso de formación profesional de grado superior en dicha materia. Motivación por el aprendizaje continuo y el esfuerzo son los pilares sobre los que se sostiene mi formación hasta día de hoy.  Ahora es el momento de comenzar a desarrollarme como profesional y creo que trabajar para su compañía sería perfecto para lograrlo.
