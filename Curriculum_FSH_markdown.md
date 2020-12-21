@@ -55,7 +55,7 @@ IES Poeta Paco Mollá
 ### Enlaces profesionales
 [GitHub](https://github.com/franciscosanchis/visualStudio_Git)
 [DockerHub](https://hub.docker.com/repository/docker/sancherrero/ejemplo-apache-despliegue)
-[Linkedin](www.linkedin.com/in/fco-javier-sanchis-6439a913b)
+[LinkedIn](https://www.linkedin.com/in/fco-javier-sanchis-6439a913b)
 
 ### Información adicional
 
